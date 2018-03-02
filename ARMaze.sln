@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARMaze", "ARMaze.csproj", "{28AEFB34-034C-E96E-AE29-036493721ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARMaze.Editor", "ARMaze.Editor.csproj", "{19EFFA21-F87B-1272-09FD-60D96430008E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28AEFB34-034C-E96E-AE29-036493721ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AEFB34-034C-E96E-AE29-036493721ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AEFB34-034C-E96E-AE29-036493721ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AEFB34-034C-E96E-AE29-036493721ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19EFFA21-F87B-1272-09FD-60D96430008E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EFFA21-F87B-1272-09FD-60D96430008E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EFFA21-F87B-1272-09FD-60D96430008E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EFFA21-F87B-1272-09FD-60D96430008E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
